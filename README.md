@@ -92,14 +92,6 @@ The `crowdfunding_db` database consists of the following tables:
 3. **`category.csv`** – CSV file containing categories for crowdfunding campaigns.
 4. **`subcategory.csv`** – CSV file with subcategories for crowdfunding campaigns.
 5. **`campaign.csv`** – CSV file with detailed crowdfunding campaign information.
-6. **`# Crowdfunding ETL Pipeline Project (Project 2)
-By: **Anqa Javed**
-
-## Project Overview
-For this project, I worked on building an ETL (Extract, Transform, Load) pipeline using **Python**, **Pandas**, and **PostgreSQL** to process and import crowdfunding campaign data into a PostgreSQL database. The project focused on transforming raw data from CSV files into a structured database, with various relationships and constraints defined between the tables.
-
-This project aims to demonstrate my ability to work with ETL pipelines, database management, and data validation.
-
 ---
 
 ## Project Steps
