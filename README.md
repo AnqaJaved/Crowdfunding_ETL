@@ -11,7 +11,7 @@ This project aims to demonstrate my ability to work with ETL pipelines, database
 ## Project Steps
 
 ### 1. **Data Extraction and Transformation**:
-   - Extracted the data from four CSV files (`contacts.csv`, `category.csv`, `subcategory.csv`, `campaign.csv`).
+   - Extracted the data from four CSV files .
    - Processed and cleaned the data using **Pandas** in a Jupyter notebook.
    - Steps involved:
      - Handling missing or incorrect values.
@@ -31,7 +31,7 @@ This project aims to demonstrate my ability to work with ETL pipelines, database
    - Established foreign key relationships between tables (e.g., `category_id` in `campaign` linked to `category_id` in `category`).
 
 ### 3. **Importing Data into PostgreSQL**:
-   - After creating the necessary tables in PostgreSQL, I used the `COPY` command to import the data from the CSV files into the database.
+   - After creating the necessary tables in PostgreSQL, I imported the data from the CSV files into the database.
    - Ensured that foreign key relationships between the tables were correctly established.
 
 ### 4. **Database Verification**:
