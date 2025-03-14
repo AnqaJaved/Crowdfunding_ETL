@@ -1,5 +1,5 @@
 # # Crowdfunding ETL Pipeline Project (Project 2)
-By: **Anqa Javed**
+By: #**Anqa Javed**
 
 ## Project Overview
 For this project, I worked on building an ETL (Extract, Transform, Load) pipeline using **Python**, **Pandas**, and **PostgreSQL** to process and import crowdfunding campaign data into a PostgreSQL database. The project focused on transforming raw data from CSV files into a structured database, with various relationships and constraints defined between the tables.
